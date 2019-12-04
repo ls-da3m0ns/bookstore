@@ -1,2 +1,2 @@
 # bookstore
-bookstore app with python and sqlite
+bookstore app with python and  sqlite
